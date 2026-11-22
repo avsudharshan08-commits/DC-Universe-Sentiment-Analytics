@@ -1,0 +1,12 @@
+project_title,expected_year,media_type,genres,certificate,inferred_tone,predicted_imdb_rating_1_to_10,approx_validation_error_plus_minus,forecast_interpretation
+"Batman: Knightfall, Part 3 - KnightsEnd (2027)",2027,Movie,Animation | Action,Not Rated,Dark/Gritty (title-based provisional),6.65,1.09,Near historical title average
+Man of Tomorrow (2027),2027,Movie,Action | Adventure | Sci-Fi,Not Rated,Unknown (insufficient tone evidence),6.18,1.09,Near historical title average
+The People v. Gorilla Grodd (2027),2027,Series,Action | Comedy | Crime,Not Rated,Unknown (insufficient tone evidence),6.65,1.09,Near historical title average
+Dynamic Duo (2028),2028,Movie,Animation | Action | Adventure,Not Rated,Light/Family/Camp (synopsis-based provisional),6.76,1.09,Near historical title average
+The Batman: Part II (2028),2028,Movie,Action | Crime | Mystery,Not Rated,Dark/Gritty (title-based provisional),6.65,1.09,Near historical title average
+Absolute Batman (Upcoming),TBA,Series,Animation | Action | Crime,Not Rated,Dark/Gritty (synopsis-based provisional),7.19,1.09,Above historical title average
+Joker: Laugh Riot (Upcoming),TBA,Series,Animation | Crime | Drama,Not Rated,Dark/Gritty (synopsis-based provisional),7.56,1.09,Above historical title average
+Krypto (Upcoming),TBA,Series,Animation | Action | Adventure,Not Rated,Light/Family/Camp (synopsis-based provisional),7.27,1.09,Above historical title average
+Mister Miracle (Upcoming),TBA,Series,Animation | Action | Adventure,Not Rated,Unknown (insufficient synopsis),7.3,1.09,Above historical title average
+My Adventures with Green Lantern (Upcoming),TBA,Series,Animation | Action | Adventure,Not Rated,Light/Family/Camp (synopsis-based provisional),7.27,1.09,Above historical title average
+Starfire! (Upcoming),TBA,Series,Animation | Action | Adventure,Not Rated,Unknown (insufficient synopsis),7.3,1.09,Above historical title average
