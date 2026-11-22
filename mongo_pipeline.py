@@ -2,7 +2,7 @@ import pandas as pd
 from pymongo import MongoClient
 
 # Paste your MongoDB Atlas Connection String here (replace <db_password> with your password)
-MONGO_URI = "mongodb+srv://avsudharshan08_db_user:pfue3y9glbB6g4av@cluster0.4nsgrjm.mongodb.net/"
+MONGO_URI = os.environ.get("MONGO_URI", "YOUR_MONGODB_ATLAS_URI_HERE")
 DB_NAME = "dc_sentiment_db"
 
 def run_mongo_pipeline():
