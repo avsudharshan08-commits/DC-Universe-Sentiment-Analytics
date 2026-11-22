@@ -8,7 +8,7 @@ from pymongo import MongoClient
 app = Flask(__name__)
 
 # Paste your working MongoDB Atlas Connection String here
-MONGO_URI = "mongodb+srv://avsudharshan08_db_user:pfue3y9glbB6g4av@cluster0.4nsgrjm.mongodb.net/"
+MONGO_URI = os.environ.get("MONGO_URI", "YOUR_MONGODB_ATLAS_URI_HERE")
 DB_NAME = "dc_sentiment_db"
 
 client = MongoClient(MONGO_URI)
